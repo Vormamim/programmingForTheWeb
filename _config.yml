@@ -1,5 +1,8 @@
 remote_theme: just-the-docs/just-the-docs
 
+url: https://vormamim.github.io
+baseurl: /programmingForTheWeb
+
 title: HSC Software Engineering — Programming for the Web
 description: Year 12 - NSW NESA Software Engineering. Copyright Dean Groom, 2026. All rights reserved.
 author: Dean Groom
@@ -16,3 +19,4 @@ nav_external_links:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
