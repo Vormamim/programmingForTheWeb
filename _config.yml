@@ -1,4 +1,18 @@
-theme: minima
+remote_theme: just-the-docs/just-the-docs
+
 title: HSC Software Engineering — Programming for the Web
 description: Year 12 - NSW NESA Software Engineering. Copyright Dean Groom, 2026. All rights reserved.
 author: Dean Groom
+
+# Just the Docs settings
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+nav_external_links:
+  - title: NESA Software Engineering
+    url: https://curriculum.nsw.edu.au/learning-areas/tas/software-engineering-11-12-2022
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

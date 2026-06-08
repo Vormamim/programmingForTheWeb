@@ -1,3 +1,9 @@
+---
+title: Day 10 — CSS Selectors and Properties
+parent: Week 2 — Design and Front-End Foundations
+nav_order: 5
+---
+
 # Day 10 — CSS — Selectors, Properties and Linking
 
 **Syllabus:** Investigate cascading style sheets (CSS) and its impact on the design of a web application — consistency of appearance, flexibility with browsers or display devices, CSS maintenance tools

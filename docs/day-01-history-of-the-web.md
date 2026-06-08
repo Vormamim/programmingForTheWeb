@@ -1,3 +1,9 @@
+---
+title: Day 1 — History of the Web
+parent: Week 1 — Web Concepts and Data Transmission
+nav_order: 1
+---
+
 # Day 1 — History of the Web
 
 **Syllabus:** Explore the applications of web programming — interactive websites, e-commerce, progressive web apps (PWAs)

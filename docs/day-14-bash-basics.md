@@ -1,3 +1,9 @@
+---
+title: Day 14 — BASH Navigation and Files
+parent: Week 3 — Building and Scripting
+nav_order: 4
+---
+
 # Day 14 — BASH: Navigation, Files and Directories
 
 **Syllabus:** Develop a web application using shell scripts to make files and directories, and search for text in a text file

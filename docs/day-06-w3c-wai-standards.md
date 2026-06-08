@@ -1,3 +1,9 @@
+---
+title: Day 6 — W3C, WAI and Web Standards
+parent: Week 2 — Design and Front-End Foundations
+nav_order: 1
+---
+
 # Day 6 — W3C, WAI and Web Standards
 
 **Syllabus:** Investigate and explain the role of the World Wide Web Consortium (W3C) — Web Accessibility Initiative (WAI), internationalisation, web security, privacy, machine-readable data

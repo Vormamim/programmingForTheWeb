@@ -1,3 +1,9 @@
+---
+title: Day 13 — JavaScript DOM and Events
+parent: Week 3 — Building and Scripting
+nav_order: 3
+---
+
 # Day 13 — JavaScript: DOM Manipulation and Events
 
 **Syllabus:** Develop a web application using an appropriate scripting language

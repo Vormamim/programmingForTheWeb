@@ -1,3 +1,9 @@
+---
+title: Day 9 — HTML Structure and Tags
+parent: Week 2 — Design and Front-End Foundations
+nav_order: 4
+---
+
 # Day 9 — HTML Structure and Tags
 
 **Syllabus:** Foundation for CSS and web application development — structure of HTML documents, semantic elements

@@ -1,3 +1,9 @@
+---
+title: Day 7 — Front-End vs Back-End + Codespaces
+parent: Week 2 — Design and Front-End Foundations
+nav_order: 2
+---
+
 # Day 7 — Front-End vs Back-End + GitHub Codespaces Setup
 
 **Syllabus:** Model elements that form a web development system — client-side (front-end) web programming, server-side (back-end) web programming, interfacing with databases (SQL and non-SQL)

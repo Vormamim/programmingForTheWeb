@@ -1,3 +1,9 @@
+---
+title: Day 2 — Data Packets, IP and DNS
+parent: Week 1 — Web Concepts and Data Transmission
+nav_order: 2
+---
+
 # Day 2 — Data Packets, IP Addresses and DNS
 
 **Syllabus:** Investigate and practise how data is transferred on the internet — data packets, IP addresses (IPv4), domain name systems (DNS)

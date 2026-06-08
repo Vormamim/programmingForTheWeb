@@ -1,3 +1,9 @@
+---
+title: Day 4 — Encryption, SSL and Hashing
+parent: Week 1 — Web Concepts and Data Transmission
+nav_order: 4
+---
+
 # Day 4 — Encryption, SSL Certificates and Hashing
 
 **Syllabus:** Explain the processes for securing the web — SSL certificates, encryption algorithms, encryption keys, plaintext and ciphertext, authentication, authorisation, hash values, digital signatures

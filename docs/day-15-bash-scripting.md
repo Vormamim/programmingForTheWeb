@@ -1,3 +1,9 @@
+---
+title: Day 15 — BASH Scripting and Automation
+parent: Week 3 — Building and Scripting
+nav_order: 5
+---
+
 # Day 15 — BASH: Scripting and Automation
 
 **Syllabus:** Develop a web application using shell scripts to make files and directories, and search for text in a text file

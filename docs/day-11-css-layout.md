@@ -1,3 +1,9 @@
+---
+title: Day 11 — CSS Layout and Flexbox
+parent: Week 3 — Building and Scripting
+nav_order: 1
+---
+
 # Day 11 — CSS Layout: Flexbox and Responsive Design
 
 **Syllabus:** CSS flexibility with browsers or display devices

@@ -1,3 +1,9 @@
+---
+title: Day 5 — Authentication and Big Data
+parent: Week 1 — Web Concepts and Data Transmission
+nav_order: 5
+---
+
 # Day 5 — Authentication, Authorisation and Big Data
 
 **Syllabus:** Authentication and authorisation; investigate the effect of big data on web architecture — data mining, metadata, streaming service management

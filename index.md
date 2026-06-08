@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 0
+---
+
 # HSC Software Engineering
 
 ## Topic 1 — Programming for the Web

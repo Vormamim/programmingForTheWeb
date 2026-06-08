@@ -1,3 +1,9 @@
+---
+title: Day 8 — Browsers and DevTools
+parent: Week 2 — Design and Front-End Foundations
+nav_order: 3
+---
+
 # Day 8 — Web Browsers and Developer Tools
 
 **Syllabus:** Explore and explain the influence of a web browser on web development, including the use of developer (dev) tools

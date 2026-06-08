@@ -1,3 +1,9 @@
+---
+title: Day 12 — JavaScript Basics
+parent: Week 3 — Building and Scripting
+nav_order: 2
+---
+
 # Day 12 — JavaScript Basics in the Browser
 
 **Syllabus:** Develop a web application using an appropriate scripting language

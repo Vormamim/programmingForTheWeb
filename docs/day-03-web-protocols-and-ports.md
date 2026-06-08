@@ -1,3 +1,9 @@
+---
+title: Day 3 — Web Protocols and Ports
+parent: Week 1 — Web Concepts and Data Transmission
+nav_order: 3
+---
+
 # Day 3 — Web Protocols and Ports
 
 **Syllabus:** Investigate and describe the function of web protocols and their ports — HTTP, HTTPS, TCP/IP, DNS, FTP, SFTP, SSL, TLS, SMTP, POP3, IMAP
