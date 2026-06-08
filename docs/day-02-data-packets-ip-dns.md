@@ -1,6 +1,6 @@
 ---
 title: Day 2 — Data Packets, IP and DNS
-parent: Week 1 — Web Concepts and Data Transmission
+parent: Week 1 — Web Concepts and Standards
 nav_order: 2
 ---
 

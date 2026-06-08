@@ -1,9 +1,9 @@
 ---
-title: Week 2 — Design and Front-End Foundations
+title: Week 2 — Front-End Foundations
 nav_order: 2
 has_children: true
 ---
 
-# Week 2 — Design and Front-End Foundations
+# Week 2 — Front-End Foundations
 
-Days 6–10. Covers web standards, browsers, HTML structure, and CSS fundamentals.
+Days 7–12. Covers browsers, HTML structure, CSS, and JavaScript fundamentals.

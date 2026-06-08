@@ -1,7 +1,7 @@
 ---
 title: Day 8 — Browsers and DevTools
-parent: Week 2 — Design and Front-End Foundations
-nav_order: 3
+parent: Week 2 — Front-End Foundations
+nav_order: 2
 ---
 
 # Day 8 — Web Browsers and Developer Tools

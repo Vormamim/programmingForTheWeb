@@ -1,6 +1,6 @@
 ---
 title: Day 4 — Encryption, SSL and Hashing
-parent: Week 1 — Web Concepts and Data Transmission
+parent: Week 1 — Web Concepts and Standards
 nav_order: 4
 ---
 

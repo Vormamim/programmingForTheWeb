@@ -1,6 +1,6 @@
 ---
 title: Day 3 — Web Protocols and Ports
-parent: Week 1 — Web Concepts and Data Transmission
+parent: Week 1 — Web Concepts and Standards
 nav_order: 3
 ---
 

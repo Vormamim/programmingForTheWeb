@@ -1,7 +1,7 @@
 ---
 title: Day 6 — W3C, WAI and Web Standards
-parent: Week 2 — Design and Front-End Foundations
-nav_order: 1
+parent: Week 1 — Web Concepts and Standards
+nav_order: 6
 ---
 
 # Day 6 — W3C, WAI and Web Standards

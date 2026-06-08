@@ -1,9 +1,9 @@
 ---
-title: Week 3 — Building and Scripting
+title: Week 3 — Scripting and Frameworks
 nav_order: 3
 has_children: true
 ---
 
-# Week 3 — Building and Scripting
+# Week 3 — Scripting and Frameworks
 
-Days 11–15. Covers CSS layout, JavaScript in the browser, and BASH scripting.
+Days 13–18. Covers JavaScript DOM, BASH scripting, code libraries, and Flask.

@@ -1,7 +1,7 @@
 ---
 title: Day 7 — Front-End vs Back-End + Codespaces
-parent: Week 2 — Design and Front-End Foundations
-nav_order: 2
+parent: Week 2 — Front-End Foundations
+nav_order: 1
 ---
 
 # Day 7 — Front-End vs Back-End + GitHub Codespaces Setup

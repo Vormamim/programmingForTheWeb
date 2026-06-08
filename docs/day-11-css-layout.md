@@ -1,7 +1,7 @@
 ---
 title: Day 11 — CSS Layout and Flexbox
-parent: Week 3 — Building and Scripting
-nav_order: 1
+parent: Week 2 — Front-End Foundations
+nav_order: 5
 ---
 
 # Day 11 — CSS Layout: Flexbox and Responsive Design

@@ -1,7 +1,7 @@
 ---
 title: Day 12 — JavaScript Basics
-parent: Week 3 — Building and Scripting
-nav_order: 2
+parent: Week 2 — Front-End Foundations
+nav_order: 6
 ---
 
 # Day 12 — JavaScript Basics in the Browser

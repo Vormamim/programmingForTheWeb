@@ -1,7 +1,7 @@
 ---
 title: Day 10 — CSS Selectors and Properties
-parent: Week 2 — Design and Front-End Foundations
-nav_order: 5
+parent: Week 2 — Front-End Foundations
+nav_order: 4
 ---
 
 # Day 10 — CSS — Selectors, Properties and Linking

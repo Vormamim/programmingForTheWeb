@@ -1,7 +1,7 @@
 ---
 title: Day 15 — BASH Scripting and Automation
-parent: Week 3 — Building and Scripting
-nav_order: 5
+parent: Week 3 — Scripting and Frameworks
+nav_order: 3
 ---
 
 # Day 15 — BASH: Scripting and Automation

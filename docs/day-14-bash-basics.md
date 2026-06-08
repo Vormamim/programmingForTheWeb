@@ -1,7 +1,7 @@
 ---
 title: Day 14 — BASH Navigation and Files
-parent: Week 3 — Building and Scripting
-nav_order: 4
+parent: Week 3 — Scripting and Frameworks
+nav_order: 2
 ---
 
 # Day 14 — BASH: Navigation, Files and Directories

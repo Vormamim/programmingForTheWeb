@@ -1,7 +1,7 @@
 ---
 title: Day 13 — JavaScript DOM and Events
-parent: Week 3 — Building and Scripting
-nav_order: 3
+parent: Week 3 — Scripting and Frameworks
+nav_order: 1
 ---
 
 # Day 13 — JavaScript: DOM Manipulation and Events

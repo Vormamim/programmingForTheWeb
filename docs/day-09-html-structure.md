@@ -1,7 +1,7 @@
 ---
 title: Day 9 — HTML Structure and Tags
-parent: Week 2 — Design and Front-End Foundations
-nav_order: 4
+parent: Week 2 — Front-End Foundations
+nav_order: 3
 ---
 
 # Day 9 — HTML Structure and Tags
